@@ -1,1 +1,1 @@
-A comprehensive analysis of Indian Premier League (IPL) cricket data, examining match outcomes, player performances, and team statistics from multiple seasons. The project analyzes 756 matches, 566 player profiles, and team performance metrics to uncover patterns in cricket analytics.
+
